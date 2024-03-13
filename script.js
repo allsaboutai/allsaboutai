@@ -103,7 +103,7 @@ const items = [
       },
       {
         name: "Midjourney",
-        imageUrl: "images/midjourney.png",
+        imageUrl: "_images/midjourney.png",
         url: "https://www.midjourney.com/home",
         description: "Midjourney generates images from natural language descriptions, called prompts, similar to OpenAI's DALL-E and Stability AI's Stable Diffusion.."
       },
